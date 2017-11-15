@@ -2,4 +2,4 @@
 practice github repo
 
 ### ***this is my message in a bottle***
-[Link to Github](www.github.com)
+* [Link to Github](www.github.com)
